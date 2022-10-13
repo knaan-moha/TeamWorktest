@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zekariamohamed/testGit/teamGit/teamGit/teamGit.csproj": {}
+    "C:\\Users\\Kate\\TestDirectory\\teamGit\\teamGit.csproj": {}
   },
   "projects": {
-    "/Users/zekariamohamed/testGit/teamGit/teamGit/teamGit.csproj": {
+    "C:\\Users\\Kate\\TestDirectory\\teamGit\\teamGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zekariamohamed/testGit/teamGit/teamGit/teamGit.csproj",
+        "projectUniqueName": "C:\\Users\\Kate\\TestDirectory\\teamGit\\teamGit.csproj",
         "projectName": "teamGit",
-        "projectPath": "/Users/zekariamohamed/testGit/teamGit/teamGit/teamGit.csproj",
-        "packagesPath": "/Users/zekariamohamed/.nuget/packages/",
-        "outputPath": "/Users/zekariamohamed/testGit/teamGit/teamGit/obj/",
+        "projectPath": "C:\\Users\\Kate\\TestDirectory\\teamGit\\teamGit.csproj",
+        "packagesPath": "C:\\Users\\Kate\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kate\\TestDirectory\\teamGit\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/zekariamohamed/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Kate\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -78,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
