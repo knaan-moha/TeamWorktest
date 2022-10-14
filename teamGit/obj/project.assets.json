@@ -1700,23 +1700,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "C:\\Users\\yunus\\.nuget\\packages\\": {},
+=======
     "C:\\Users\\Kate\\.nuget\\packages\\": {},
+>>>>>>> a29604e946f4ab044f0611a93b585d45e341eef3
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\yunus\\testInfo\\TeamWorktest\\teamGit\\teamGit.csproj",
+      "projectName": "teamGit",
+      "projectPath": "C:\\Users\\yunus\\testInfo\\TeamWorktest\\teamGit\\teamGit.csproj",
+      "packagesPath": "C:\\Users\\yunus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yunus\\testInfo\\TeamWorktest\\teamGit\\obj\\",
+=======
       "projectUniqueName": "C:\\Users\\Kate\\TestDirectory\\teamGit\\teamGit.csproj",
       "projectName": "teamGit",
       "projectPath": "C:\\Users\\Kate\\TestDirectory\\teamGit\\teamGit.csproj",
       "packagesPath": "C:\\Users\\Kate\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Kate\\TestDirectory\\teamGit\\obj\\",
+>>>>>>> a29604e946f4ab044f0611a93b585d45e341eef3
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
+        "C:\\Users\\yunus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
         "C:\\Users\\Kate\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> a29604e946f4ab044f0611a93b585d45e341eef3
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
